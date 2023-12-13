@@ -3,7 +3,7 @@ import pandas as pds
 
 if __name__ == '__main__':
     # Lire les données à partir du fichier CSV
-    donnees = pds.read_csv('BalancierInfini.csv')
+    donnees = pds.read_csv('files/SensorTile_Log_N001.csv')
 
     # Créer un gyro
     # plt.figure(figsize=(15, 6))
