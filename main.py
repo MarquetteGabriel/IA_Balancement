@@ -16,7 +16,7 @@ if __name__ == '__main__':
     # plt.ylabel('Gyroscope en mdps')
     # plt.title("Graphique de la l'acceleration de Z en fonction de T")
     # plt.legend()
-    #plt.grid(True)
+    # plt.grid(True)
 
     # Créer un accelero
     # plt.subplot(4, 1, 4)
